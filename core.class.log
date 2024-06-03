@@ -1,0 +1,1103 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930188386@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB093946F281F2E74B8D6',
+    participant: undefined
+  },
+  messageTimestamp: 1717456426,
+  pushName: 'Esther Ticlla',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hola',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '51930188386'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1d2217c0-9047-4383-81f2-1742bb679159',
+  keyword: 'key_8838f1c8-0ee7-4252-8b69-fda2cb9e68f7',
+  answer: '🙌 ¡Hola! Bienvenido a *Impresiones 3D San Marcos* 🎉',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7c16fc5556b674c572726d4b11799347'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1a26f13a-2174-4be9-b23a-5a9c1314a15a',
+  keyword: 'ans_1d2217c0-9047-4383-81f2-1742bb679159',
+  answer: '📄 Pásame tu archivo STL y te armaré un presupuesto. Recuerda que tenemos delivery gratis en toda la universidad. 🚚🎓',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3e19fe93932490ea97f238612156334b'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930188386@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB092CC818CEB7F035C2F',
+    participant: undefined
+  },
+  messageTimestamp: 1717456434,
+  pushName: 'Esther Ticlla',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'archivo.stl',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'archivo.stl',
+  from: '51930188386'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930188386@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB095D509EECE1851BC58',
+    participant: undefined
+  },
+  messageTimestamp: 1717456444,
+  pushName: 'Esther Ticlla',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'prueba.stl',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'prueba.stl',
+  from: '51930188386'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a5f09881-e6d5-40cf-b562-a3e4cb3aa45a',
+  keyword: 'key_7e2bb48a-ff17-4ffb-95e3-5ce8b69f8254',
+  answer: '⚙️ *Configuración estándar:* \n' +
+    '🔍 *Detalles:* básico, *detallado*, ultra detallado\n' +
+    '🔧 *Resistencia:* básica, *resistente*, ultra resistente\n' +
+    '📏 *Tamaño:* *predeterminado*, personalizado',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '44aed3f53c8b2a23799312de62edcfe1'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_de633a2d-f7a6-4324-886e-b962922d3847',
+  keyword: 'ans_a5f09881-e6d5-40cf-b562-a3e4cb3aa45a',
+  answer: '🤔 ¿Continuar con la configuración recomendada?\n' +
+    '*1.* Sí ✅\n' +
+    '*2.* Cambiar configuración 🔄\n' +
+    '*3.* Elegir otro archivo 3D 📂',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ac09d95b0e1fac1d8a8f4ab064985765'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930188386@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB029F1DFD6B79A147F78',
+    participant: undefined
+  },
+  messageTimestamp: 1717456453,
+  pushName: 'Esther Ticlla',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '2',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '51930188386'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930188386@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB01B9DE7FC37EC81EB83',
+    participant: undefined
+  },
+  messageTimestamp: 1717456461,
+  pushName: 'Esther Ticlla',
+  broadcast: false,
+  message: Message {
+    stickerMessage: StickerMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.15575-24/32704060_1784794062030833_1751929325667957885_n.enc?ccb=11-4&oh=01_Q5AaIBk7nJyP8uRKbgdSj7Xv2x7IB1HK_ICemRpPzDcu_uIT&oe=6685AE2E&_nc_sid=5e03e0&mms3=true',
+      fileSha256: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      mediaKey: [Uint8Array],
+      mimetype: 'image/webp',
+      directPath: '/v/t62.15575-24/32704060_1784794062030833_1751929325667957885_n.enc?ccb=11-4&oh=01_Q5AaIBk7nJyP8uRKbgdSj7Xv2x7IB1HK_ICemRpPzDcu_uIT&oe=6685AE2E&_nc_sid=5e03e0',
+      fileLength: [Long],
+      mediaKeyTimestamp: [Long],
+      isAnimated: false,
+      contextInfo: [ContextInfo],
+      stickerSentTs: [Long]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__b7e1b716-381a-4bf9-9242-c58c3a68a31e',
+  from: '51930188386'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930188386@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0BEDAF25F858A38C63E',
+    participant: undefined
+  },
+  messageTimestamp: 1717456465,
+  pushName: 'Esther Ticlla',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'no se',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'no se',
+  from: '51930188386'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930188386@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0A3A5424CFB01425FE4',
+    participant: undefined
+  },
+  messageTimestamp: 1717456465,
+  pushName: 'Esther Ticlla',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'tu dime',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'tu dime',
+  from: '51930188386'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930188386@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB060AEB55104D9C7653E',
+    participant: undefined
+  },
+  messageTimestamp: 1717456786,
+  pushName: 'Esther Ticlla',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'a donde?',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'a donde?',
+  from: '51930188386'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930188386@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB02BFFA793CAE99CEC37',
+    participant: undefined
+  },
+  messageTimestamp: 1717456797,
+  pushName: 'Esther Ticlla',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    reactionMessage: ReactionMessage {
+      key: [MessageKey],
+      text: '🫡',
+      senderTimestampMs: [Long]
+    }
+  },
+  status: 4,
+  body: '',
+  from: '51930188386'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930188386@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB056BA8A6A03FE6511A8',
+    participant: undefined
+  },
+  messageTimestamp: 1717456844,
+  pushName: 'Esther Ticlla',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'de las impresiones?',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'de las impresiones?',
+  from: '51930188386'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930188386@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB040E2BFF79097666870',
+    participant: undefined
+  },
+  messageTimestamp: 1717456852,
+  pushName: 'Esther Ticlla',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'un nombre o titulo?',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'un nombre o titulo?',
+  from: '51930188386'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930188386@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB012F103ECB229694B74',
+    participant: undefined
+  },
+  messageTimestamp: 1717456952,
+  pushName: 'Esther Ticlla',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'y al final decir\neste es un proyecto financiado por Medula',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  status: 4,
+  body: 'y al final decir\neste es un proyecto financiado por Medula',
+  from: '51930188386'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930188386@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0DA34C393C2F5BDF9AA',
+    participant: undefined
+  },
+  messageTimestamp: 1717456963,
+  pushName: 'Esther Ticlla',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'aqui impresiones',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'aqui impresiones',
+  from: '51930188386'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930188386@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0F91969C6E0750B562D',
+    participant: undefined
+  },
+  messageTimestamp: 1717456964,
+  pushName: 'Esther Ticlla',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'XD',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'XD',
+  from: '51930188386'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930188386@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0872AAA9D21FAE61594',
+    participant: undefined
+  },
+  messageTimestamp: 1717457033,
+  pushName: 'Esther Ticlla',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'XDDD',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  status: 4,
+  body: 'XDDD',
+  from: '51930188386'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930188386@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0ADC550A45B1EE4ED00',
+    participant: undefined
+  },
+  messageTimestamp: 1717457115,
+  pushName: 'Esther Ticlla',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'que es algo que sea propio de la impresion 3d?',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'que es algo que sea propio de la impresion 3d?',
+  from: '51930188386'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930188386@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0CA080BCC4FD257FF31',
+    participant: undefined
+  },
+  messageTimestamp: 1717457123,
+  pushName: 'Esther Ticlla',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'que no sea esas dos letras? XD',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'que no sea esas dos letras? XD',
+  from: '51930188386'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930188386@s.whatsapp.net',
+    fromMe: false,
+    id: 'E3D0241BA5634B2B0BCAA5993399008B',
+    participant: undefined
+  },
+  messageTimestamp: 1717457551,
+  pushName: 'Esther Ticlla',
+  broadcast: false,
+  message: Message {
+    conversation: 'Fiprent',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Fiprent',
+  from: '51930188386'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930188386@s.whatsapp.net',
+    fromMe: false,
+    id: '542D9C750EB16991184A2AC8A2A974F6',
+    participant: undefined
+  },
+  messageTimestamp: 1717457566,
+  pushName: 'Esther Ticlla',
+  broadcast: false,
+  message: Message {
+    conversation: 'No se me causa un poco de incomodidad la pronunciacion del pr',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'No se me causa un poco de incomodidad la pronunciacion del pr',
+  from: '51930188386'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930188386@s.whatsapp.net',
+    fromMe: false,
+    id: '3846E5722D19815933F33DB99685FEDB',
+    participant: undefined
+  },
+  messageTimestamp: 1717457572,
+  pushName: 'Esther Ticlla',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Pero me gusta',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Pero me gusta',
+  from: '51930188386'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930188386@s.whatsapp.net',
+    fromMe: false,
+    id: '03ADB5EA5CE3D98E71B43B551A636EAA',
+    participant: undefined
+  },
+  messageTimestamp: 1717457575,
+  pushName: 'Esther Ticlla',
+  broadcast: false,
+  message: Message {
+    stickerMessage: StickerMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.15575-24/35149280_829005949279053_8414239745828964432_n.enc?ccb=11-4&oh=01_Q5AaIMD5zWZKUBsIlzqBnp7tUYqaYDJNFa7DVXEUYxavV_bm&oe=6685B310&_nc_sid=5e03e0&mms3=true',
+      fileSha256: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      mediaKey: [Uint8Array],
+      mimetype: 'image/webp',
+      height: 64,
+      width: 64,
+      directPath: '/v/t62.15575-24/35149280_829005949279053_8414239745828964432_n.enc?ccb=11-4&oh=01_Q5AaIMD5zWZKUBsIlzqBnp7tUYqaYDJNFa7DVXEUYxavV_bm&oe=6685B310&_nc_sid=5e03e0',
+      fileLength: [Long],
+      mediaKeyTimestamp: [Long],
+      isAnimated: false,
+      stickerSentTs: [Long],
+      isAvatar: false
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__63894e70-8889-4f96-aafa-6b1bc5508aa1',
+  from: '51930188386'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930188386@s.whatsapp.net',
+    fromMe: false,
+    id: 'DAC6EE3F2D5BC2257CC5007E4BC6E889',
+    participant: undefined
+  },
+  messageTimestamp: 1717457649,
+  pushName: 'Esther Ticlla',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Que paso joven',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Que paso joven',
+  from: '51930188386'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930188386@s.whatsapp.net',
+    fromMe: false,
+    id: '624A49CCC9D22010E78606CF3E62FEDA',
+    participant: undefined
+  },
+  messageTimestamp: 1717457651,
+  pushName: 'Esther Ticlla',
+  broadcast: false,
+  message: Message {
+    stickerMessage: StickerMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.15575-24/31861218_1155150288857328_1753279956068077485_n.enc?ccb=11-4&oh=01_Q5AaIEZ0u4Q7J1ZrHhrR5rTxUOoBnzV9MNCjQdyP9naiFiy-&oe=6685B9E5&_nc_sid=5e03e0&mms3=true',
+      fileSha256: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      mediaKey: [Uint8Array],
+      mimetype: 'image/webp',
+      height: 64,
+      width: 64,
+      directPath: '/v/t62.15575-24/31861218_1155150288857328_1753279956068077485_n.enc?ccb=11-4&oh=01_Q5AaIEZ0u4Q7J1ZrHhrR5rTxUOoBnzV9MNCjQdyP9naiFiy-&oe=6685B9E5&_nc_sid=5e03e0',
+      fileLength: [Long],
+      mediaKeyTimestamp: [Long],
+      isAnimated: false,
+      stickerSentTs: [Long],
+      isAvatar: false
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__b965c1aa-9905-4802-a17f-3dfce544277b',
+  from: '51930188386'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930188386@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB05CD86D335FDDEE09C1',
+    participant: undefined
+  },
+  messageTimestamp: 1717457772,
+  pushName: 'Esther Ticlla',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'soy ese',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'soy ese',
+  from: '51930188386'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930188386@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB02858B3613DF7EFF082',
+    participant: undefined
+  },
+  messageTimestamp: 1717457777,
+  pushName: 'Esther Ticlla',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'kjahdhqwliejdwqgh',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'kjahdhqwliejdwqgh',
+  from: '51930188386'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930188386@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB062D91971599C3E401F',
+    participant: undefined
+  },
+  messageTimestamp: 1717457781,
+  pushName: 'Esther Ticlla',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'sisidis',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  status: 4,
+  body: 'sisidis',
+  from: '51930188386'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930188386@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB009E0CCEF89370B8FD2',
+    participant: undefined
+  },
+  messageTimestamp: 1717457807,
+  pushName: 'Esther Ticlla',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'cuando era mas chiquita me metieron en una terapia para el habla',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'cuando era mas chiquita me metieron en una terapia para el habla',
+  from: '51930188386'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930188386@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0A27E1AD2DB9A3AC70A',
+    participant: undefined
+  },
+  messageTimestamp: 1717457812,
+  pushName: 'Esther Ticlla',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'solo fui 2 o 3 veces ya no recuerdo',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'solo fui 2 o 3 veces ya no recuerdo',
+  from: '51930188386'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930188386@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0966417507E5E95D783',
+    participant: undefined
+  },
+  messageTimestamp: 1717457813,
+  pushName: 'Esther Ticlla',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'XD',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  status: 4,
+  body: 'XD',
+  from: '51930188386'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930188386@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB09F1D8BDEC00E27A36C',
+    participant: undefined
+  },
+  messageTimestamp: 1717457818,
+  pushName: 'Esther Ticlla',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'justamente por la r',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  status: 4,
+  body: 'justamente por la r',
+  from: '51930188386'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930188386@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0C9000948F9C9F8DDEF',
+    participant: undefined
+  },
+  messageTimestamp: 1717457821,
+  pushName: 'Esther Ticlla',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'pffffff',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  status: 4,
+  body: 'pffffff',
+  from: '51930188386'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930188386@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0EC257280E939ABB180',
+    participant: undefined
+  },
+  messageTimestamp: 1717457842,
+  pushName: 'Esther Ticlla',
+  broadcast: false,
+  message: Message {
+    stickerMessage: StickerMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.15575-24/32827111_987702579516349_8025500958509789314_n.enc?ccb=11-4&oh=01_Q5AaILThjP-m0RQXCIIGtfBVOk9eUc_PylErwGl6VeZ2ULQ2&oe=6685BB21&_nc_sid=5e03e0&mms3=true',
+      fileSha256: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      mediaKey: [Uint8Array],
+      mimetype: 'image/webp',
+      directPath: '/v/t62.15575-24/32827111_987702579516349_8025500958509789314_n.enc?ccb=11-4&oh=01_Q5AaILThjP-m0RQXCIIGtfBVOk9eUc_PylErwGl6VeZ2ULQ2&oe=6685BB21&_nc_sid=5e03e0',
+      fileLength: [Long],
+      mediaKeyTimestamp: [Long],
+      firstFrameLength: 4866,
+      firstFrameSidecar: [Uint8Array],
+      isAnimated: true,
+      contextInfo: [ContextInfo],
+      stickerSentTs: [Long]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__cda0aafd-77ec-43c2-bd0f-30b1e98dc741',
+  from: '51930188386'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930188386@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0CC753735E88009E847',
+    participant: undefined
+  },
+  messageTimestamp: 1717457852,
+  pushName: 'Esther Ticlla',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'ajhidl3wueflr',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'ajhidl3wueflr',
+  from: '51930188386'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930188386@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0331688F211FCEB4829',
+    participant: undefined
+  },
+  messageTimestamp: 1717457967,
+  pushName: 'Esther Ticlla',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'la gran mayoria si',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'la gran mayoria si',
+  from: '51930188386'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930188386@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0C8EE2B33461A565CBC',
+    participant: undefined
+  },
+  messageTimestamp: 1717458300,
+  pushName: 'Esther Ticlla',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'tampoco',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'tampoco',
+  from: '51930188386'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930188386@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0135935D52E56A28C8E',
+    participant: undefined
+  },
+  messageTimestamp: 1717458313,
+  pushName: 'Esther Ticlla',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'mmm',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'mmm',
+  from: '51930188386'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930188386@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB02045ED4D9099B4FD23',
+    participant: undefined
+  },
+  messageTimestamp: 1717458317,
+  pushName: 'Esther Ticlla',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'voy a salir de nuevo',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'voy a salir de nuevo',
+  from: '51930188386'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930188386@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0D83554B416206C09F7',
+    participant: undefined
+  },
+  messageTimestamp: 1717458322,
+  pushName: 'Esther Ticlla',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'capaz en el camino se me ocurre algo',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'capaz en el camino se me ocurre algo',
+  from: '51930188386'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930188386@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB064560EF38922BC88F8',
+    participant: undefined
+  },
+  messageTimestamp: 1717458327,
+  pushName: 'Esther Ticlla',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'XDDD',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'XDDD',
+  from: '51930188386'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930188386@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB04A125FBB4EC6F72E47',
+    participant: undefined
+  },
+  messageTimestamp: 1717458347,
+  pushName: 'Esther Ticlla',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'printino 🤌',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  status: 4,
+  body: 'printino 🤌',
+  from: '51930188386'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930188386@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB04A743B37F55A53E58E',
+    participant: undefined
+  },
+  messageTimestamp: 1717458348,
+  pushName: 'Esther Ticlla',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'XDDD',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  status: 4,
+  body: 'XDDD',
+  from: '51930188386'
+}
